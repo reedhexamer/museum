@@ -1,0 +1,25 @@
+span {
+	color:#cc0000;
+	font-size:24px;
+	font-family:Helvetica;
+}
+#left {
+	float:left;
+	height:5000px;
+	width:100px
+	}
+#right {
+	float:right;
+	height:4000px;
+	width:100px
+	}
+td {
+	padding-left:300px;
+	padding-top:150px;
+}
+figcaption {
+	font-family:Helvetica;
+}
+img {
+	padding-bottom:10px;
+}
